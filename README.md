@@ -20,3 +20,9 @@
 `http://localhost:8080/HeimaShop/admin/home.jsp`
 
 ## 效果图
+
+![img](https://github.com/zxujf/Heimashop/blob/master/前台展示1.jpg)
+
+![img](https://github.com/zxujf/Heimashop/blob/master/前台展示2.jpg)
+
+![img](https://github.com/zxujf/Heimashop/blob/master/后台展示.jpg)
