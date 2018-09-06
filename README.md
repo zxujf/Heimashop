@@ -1,24 +1,22 @@
 # Heimashop
 ## 写在前面
 
-1. 此项目为基于Spring,Struts,Hibernate（ssh）编写的仿天猫整站练习项目
-
-2. 没上传图片，因此会有各种![img](https://github.com/zxujf/tmall_ssh/blob/master/我没上传图片.jpg)的情况发生
+1. 此项目为基于J2EE编写的javaweb商城整站练习项目
 
 ## 如何运行?
 
-1.下载后解压到`e:/project/tmall_ssh`，否则要更改jar包导入路径
+1.下载后导入项目
 
-2.使用MySQL-Front导入数据库
+2.更改`Bulid Path中`的`JRE System Library`
 
-3.导入Web动态项目
+2.新建数据库后在表中运行sql文件
 
 4.使用Tomcat运行
 
 5.访问前台页面
-`http://127.0.0.1:8080/tmall_ssh/`
+`http://localhost:8080/HeimaShop/`
 
 6.访问后台页面
-`http://127.0.0.1:8080/tmall_ssh/admin`
+`http://localhost:8080/HeimaShop/admin/home.jsp`
 
 ## 效果图
