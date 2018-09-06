@@ -1,7 +1,7 @@
 # Heimashop
 ## 写在前面
 
-1. 此项目为基于J2EE编写的javaweb商城整站练习项目
+此项目为基于J2EE编写的javaweb商城整站练习项目
 
 ## 如何运行?
 
@@ -23,6 +23,8 @@
 
 ![img](https://github.com/zxujf/Heimashop/blob/master/前台展示1.jpg)
 
+
 ![img](https://github.com/zxujf/Heimashop/blob/master/前台展示2.jpg)
+
 
 ![img](https://github.com/zxujf/Heimashop/blob/master/后台展示.jpg)
